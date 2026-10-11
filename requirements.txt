@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+joblib
+scikit-learn==1.6.1  # the version printed by your Colab cell
+streamlit             # only needed for the Streamlit app
